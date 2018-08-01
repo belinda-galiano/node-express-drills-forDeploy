@@ -1,0 +1,30 @@
+{
+  "name": "version-1",
+  "version": "1.0.0",
+  "description": "node express first drill",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belinda-galiano/serve-data-to-clients.git"
+  },
+  "author": "Belinda Galiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belinda-galiano/serve-data-to-clients/issues"
+  },
+  "homepage": "https://github.com/belinda-galiano/serve-data-to-clients#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}

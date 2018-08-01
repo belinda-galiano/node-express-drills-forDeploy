@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "cors": "^2.8.4",
+        "express": "^4.15.4"
+    },
+    "name": "galvanize-clients",
+    "version": "0.0.1",
+    "description": "Solution to serve data to clients",
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kyle Coberly",
+    "license": "ISC"
+}
